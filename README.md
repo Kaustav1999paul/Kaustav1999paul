@@ -1,5 +1,5 @@
 # Hello World, I'm Kaustav 👋👋
-<img height="300px" src="https://cdn.wccftech.com/wp-content/uploads/2020/02/android-developers.png" alt="Wallpaper"/><br/><br/>
+<img align="centre" height="300px" src="https://cdn.wccftech.com/wp-content/uploads/2020/02/android-developers.png" alt="Wallpaper"/><br/><br/>
 
 ## I'm an Android app Developer | UI/UX Designer | Flutter Developer! 
 - 🔭 I’m currently learning new things.
