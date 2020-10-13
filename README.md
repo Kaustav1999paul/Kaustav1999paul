@@ -1,6 +1,6 @@
-# Hi there, I'm Kaustav 👋👋
+# Hello World, I'm Kaustav 👋👋
 
-## I'm a Android app Developer | UI/UX Designer | Flutter Developer!
+## I'm an Android app Developer | UI/UX Designer | Flutter Developer!
 - 🔭 I’m currently learning new things.
 - 🦾 Want to get a dream job at Google, Microsoft or Apple.
 - 🤖 I’m planning to learn Machine Learning
