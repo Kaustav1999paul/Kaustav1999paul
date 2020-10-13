@@ -12,6 +12,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="Android" width="26px" src="https://i.pinimg.com/originals/95/b7/e1/95b7e17b5161175de4fe88b1b2602236.png" />
+<img align="left" alt="Android" width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" />
 <img align="left" alt="Firebase" width="26px" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" />
 <img align="left" alt="Flutter" width="20px" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" />
 <img align="left" alt="Dart" width="33px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/dart-logo.png" />
