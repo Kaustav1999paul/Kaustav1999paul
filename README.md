@@ -6,7 +6,7 @@
 - 🦾 Want to get a dream job at Google, Microsoft or Apple.
 - 🤖 I’m planning to learn Machine Learning
 - 🥅 2020 Goals: Learn more new things on Android Development.
-- ⚡ Fun fact: I love to Sketch.
+- 🥘 Love to Cook.
 
 <br />
 
