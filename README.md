@@ -4,7 +4,7 @@
 ## I'm an Android app Developer | UI/UX Designer | Flutter Developer! 
 - 🔭 I’m currently learning new things.
 - 🦾 Want to get a dream job at Google, Microsoft or Apple.
-- 🤖 I’m planning to learn Machine Learning
+- 📱 I’m planning to learn iOS app development.
 - 🥅 2020 Goals: Learn more new things on Android Development.
 - 🥘 Love to Cook.
 
