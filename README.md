@@ -5,7 +5,7 @@
 - 🔭 I’m currently learning new things;
 - 🦾 Dream job: FAANG;
 - 💻 I’m planning to learn Python;
-- 🥅 2020 Goals: Learn more new things on Android Development;
+- 🥅 2021 Goals: Learn more new things on Android Development;
 - 🥘 Love to Cook;
 
 <br />
