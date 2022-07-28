@@ -8,4 +8,4 @@
 - 🥘 Love to Cook;
 
 <br /><br />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-chowrasia&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaustav1999paul&show_icons=true&locale=en&layout=compact" alt="Kaustav1999paul" /></p>
