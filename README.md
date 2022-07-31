@@ -9,11 +9,11 @@
 <p align="center">🥘 Love to Cook</p>
     
  
-![My github status](https://github-readme-stats.vercel.app/api?username=Kaustav1999paul&show_icons=true&include_all_commits=true)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaustav1999paul" alt="GitHub Stats" />
+
+<div><p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaustav1999paul&show_icons=true&locale=en&layout=compact" alt="Kaustav1999paul" /></p>
+</div>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Kaustav1999paul&bg_color=fff&color=000&line=00E676&point=000&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<div><p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaustav1999paul&show_icons=true&locale=en&layout=expand" alt="Kaustav1999paul" /></p>
-</div>
+
