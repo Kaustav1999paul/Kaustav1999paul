@@ -4,6 +4,7 @@
 <p align="center"><b>I'm an Android Developer | UI/UX Designer | Flutter Developer!</b> </p>
 <p align="center">🔭 Improving DSA skills</p>
 <p align="center">🦾 Dream job: FAANG</p>
+<p align="center">📓 College: RV College of Engineering</p>
 <p align="center">🥅 Next Goals: iOS development📱</p>
 <p align="center">🥘 Love to Cook</p>
 
