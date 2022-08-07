@@ -1,5 +1,12 @@
-<h1 align="center">Hello, Kaustav here 👋</h1>
-<img align="centre" height="300px" src="https://firebasestorage.googleapis.com/v0/b/chats-ec34c.appspot.com/o/android-developers.svg?alt=media&token=ed62009c-412a-4718-b117-5d53a616f53c" alt="Wallpaper"/>
+<p align="center">
+<img align="centre" height="150px" src="https://github.com/Kaustav1999paul/Kaustav1999paul/blob/master/logo.png" alt="Wallpaper"/>
+</p>
+<h1 align="center">Hello, Kaustav here</h1>
+
+<p align="center">
+<img align="centre" height="100px" src="https://firebasestorage.googleapis.com/v0/b/chats-ec34c.appspot.com/o/android-developers.svg?alt=media&token=ed62009c-412a-4718-b117-5d53a616f53c" alt="Wallpaper"/>
+</p>
+
 
 <p align="center"><b>I'm an Android Developer | UI/UX Designer | Flutter Developer!</b> </p>
 <p align="center">🔭 Improving DSA skills</p>
