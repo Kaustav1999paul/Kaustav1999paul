@@ -17,8 +17,3 @@
 
 <div><p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaustav1999paul&show_icons=true&locale=en&layout=compact" alt="Kaustav1999paul" /></p>
 </div>
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Kaustav1999paul&bg_color=fff&color=000&line=00E676&point=000&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
